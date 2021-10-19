@@ -16,10 +16,11 @@ img{
 #tagline{
   margin-left:60px ;
   font-size: 40px;
+  color: white;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #inner{
-  color: #013243;
+  color: white;
   text-align:left;
   margin-top: 10px;
   margin-left: 20px;
@@ -35,13 +36,17 @@ img{
 .addo{
   text-align: left;
   height: 500px;
-  background-image: url("images/back.jpg");
-  background: linear-gradient(to right, #db0a5b,#19b5fe);
-  /* background-color: #D7E9F7; */
+  /* background-image: url('https://www.freepik.com/free-photo/php-programming-html-coding-cyberspace-concept_16444714.htm?query=coding%20background'); */
+   /* background-image: url('images/lapi.jpg'); */
+  /* background: linear-gradient(to right, #013243,#22a7f0); */
+  background-color: #22313f;
   
   
 }
 body{
+  
+}
+#main{
   
 }
 .profile{
