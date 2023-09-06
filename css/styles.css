@@ -70,16 +70,18 @@ img{
 .education{
   background-color: white;
   display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   margin-left: 120px;
 }
 .grad-image{
   flex: 1;
-  
+  flex-basis: 50%;
 }
 .career-image{
   flex:1;
+  flex-basis: 50%;
 }
 .img-graduation{
   width:440px;
@@ -94,6 +96,7 @@ img{
 .details{
   flex:1;
   padding: 18px;
+  flex-basis: 50%;
 }
 .profile-container{
   flex-grow: 1;
